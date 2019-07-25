@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>ChMkJ1jt1RCIHUVLAAJadLznWa0AAbmTgN7HygAAlqM280.jpg</file>
+        <file>ChMkJljt1P-IPK6EAAOYdB8Fj1EAAbmTgG5F7kAA5iM481.jpg</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>timg.jpg</file>
+        <file>file.jpg</file>
+        <file>off.jpg</file>
+        <file>back.png</file>
+        <file>choose.png</file>
+        <file>dir.png</file>
+        <file>refresh.png</file>
+    </qresource>
+</RCC>
